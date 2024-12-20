@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gunung Merapi",
+        "location": "Yogyakarta, Indonesia",
+        "height": "2930 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4428, -7.5407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gunung Bromo",
+        "location": "Jawa Timur, Indonesia",
+        "height": "2329 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.9468, -7.9425]
+      }
+    }
+  ]
+}
